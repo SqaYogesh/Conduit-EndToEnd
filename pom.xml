@@ -6,7 +6,7 @@
   
   <properties>
   		<selenium-java.version>3.141.59</selenium-java.version>
-  		<junit.version>4.12</junit.version>
+  		<junit.version>4.13.1</junit.version>
   		<cucumber.version>1.2.2</cucumber.version>
   		<maven-compiler.version>3.7.0</maven-compiler.version>
   		<cucumber-extentsreport.version>3.0.2</cucumber-extentsreport.version>
